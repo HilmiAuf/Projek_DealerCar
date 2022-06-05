@@ -1,0 +1,16 @@
+@prefix info: <http://carsell.com/ns.data#> .
+@prefix data:  <http://carsell.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+SELECT ?Merk ?Kelompok_Model ?Model ?Tipe_Bodi ?CC ?Transmisi ?Asal_Pembuatan 
+WHERE
+{ 
+    ?infos
+        info:Merk                   ?Merk ;
+        info:Kelompok_Model         ?Kelompok_Model ;
+        info:Model                  ?Model;
+        info:Tipe_Bodi              ?Tipe_Bodi ;
+        info:CC                     ?CC ;
+        info:Transmisi              ?Transmisi ;
+        info:Asal_Pembuatan         ?Asal_Pembuatan .
+}

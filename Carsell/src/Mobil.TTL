@@ -1,0 +1,229 @@
+@prefix info: <http://car21.com/ns/data#> .
+@prefix data:  <http://car21.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#Users
+data:001
+    info:Merk               "Mercedes_Benz" ;
+    info:Kelompok_Model     "S-Class" ;
+    info:Model              "S280" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "2800" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:002
+    info:Merk               "Mercedes_Benz" ;
+    info:Kelompok_Model     "S-Class" ;
+    info:Model              "S300L" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "3000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:003
+    info:Merk               "Mercedes_Benz" ;
+    info:Kelompok_Model     "S-Class" ;
+    info:Model              "S350L" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "3500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:004
+    info:Merk               "Mercedes_Benz" ;
+    info:Kelompok_Model     "S-Class" ;
+    info:Model              "S400L" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "3000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:005
+    info:Merk               "Mercedes_Benz" ;
+    info:Kelompok_Model     "S-Class" ;
+    info:Model              "S450L" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "3000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:006
+    info:Merk               "Toyota" ;
+    info:Kelompok_Model     "Camry" ;
+    info:Model              "Hybrid" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "2500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:007
+    info:Merk               "Toyota" ;
+    info:Kelompok_Model     "Camry" ;
+    info:Model              "V" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "2500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:008
+    info:Merk               "Toyota" ;
+    info:Kelompok_Model     "Camry" ;
+    info:Model              "G" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "2500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:009
+    info:Merk               "Toyota" ;
+    info:Kelompok_Model     "Alphard" ;
+    info:Model              "V" ;
+    info:Tipe_Bodi          "MPV" ;
+    info:CC                 "2400" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:010
+    info:Merk               "Toyota" ;
+    info:Kelompok_Model     "Alphard" ;
+    info:Model              "Q" ;
+    info:Tipe_Bodi          "MPV" ;
+    info:CC                 "2400" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:011
+    info:Merk               "Honda" ;
+    info:Kelompok_Model     "CR_V" ;
+    info:Model              "2.0_Prestige" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:012
+    info:Merk               "Honda" ;
+    info:Kelompok_Model     "CR_V" ;
+    info:Model              "2.4_Prestige" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2400" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:013
+    info:Merk               "Honda" ;
+    info:Kelompok_Model     "CR_V" ;
+    info:Model              "2.0_iVTEC" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:014
+    info:Merk               "Honda" ;
+    info:Kelompok_Model     "Jazz" ;
+    info:Model              "1.5RS" ;
+    info:Tipe_Bodi          "Hatchback" ;
+    info:CC                 "1500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:015
+    info:Merk               "Honda" ;
+    info:Kelompok_Model     "Jazz" ;
+    info:Model              "1.5S" ;
+    info:Tipe_Bodi          "Hatchback" ;
+    info:CC                 "1500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:016
+    info:Merk               "Mitsubishi" ;
+    info:Kelompok_Model     "Colt" ;
+    info:Model              "3.3" ;
+    info:Tipe_Bodi          "Truck" ;
+    info:CC                 "3300" ;
+    info:Transmisi          "Manual" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:017
+    info:Merk               "Mitsubishi" ;
+    info:Kelompok_Model     "Colt" ;
+    info:Model              "3.9" ;
+    info:Tipe_Bodi          "Truck" ;
+    info:CC                 "3900" ;
+    info:Transmisi          "Manual" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:018
+    info:Merk               "Mitsubishi" ;
+    info:Kelompok_Model     "Pajero" ;
+    info:Model              "Dakar" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:019
+    info:Merk               "Mitsubishi" ;
+    info:Kelompok_Model     "Pajero" ;
+    info:Model              "Dakar_Ultimate" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2400" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:020
+    info:Merk               "Mitsubishi" ;
+    info:Kelompok_Model     "Pajero" ;
+    info:Model              "Exceed" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Japan" .
+
+data:021
+    info:Merk               "BMW" ;
+    info:Kelompok_Model     "Series7" ;
+    info:Model              "730Li" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "2000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:022
+    info:Merk               "BMW" ;
+    info:Kelompok_Model     "Series7" ;
+    info:Model              "730Ld" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "3000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:023
+    info:Merk               "BMW" ;
+    info:Kelompok_Model     "Series7" ;
+    info:Model              "730iL" ;
+    info:Tipe_Bodi          "Sedan" ;
+    info:CC                 "3000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:024
+    info:Merk               "BMW" ;
+    info:Kelompok_Model     "X" ;
+    info:Model              "X1" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "1500" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
+
+data:025
+    info:Merk               "BMW" ;
+    info:Kelompok_Model     "X" ;
+    info:Model              "X3" ;
+    info:Tipe_Bodi          "SUV" ;
+    info:CC                 "2000" ;
+    info:Transmisi          "Auto" ;
+    info:Asal_Pembuatan     "Germany" .
